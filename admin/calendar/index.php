@@ -38,7 +38,7 @@
 <body class="bg-light">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark bg-gradient" id="topNavBar">
             <div class="container">
-                <a class="navbar-brand" href="localhost/bims/admin">
+                <a class="navbar-brand" href="/">
                 Home
                 </a>
 
