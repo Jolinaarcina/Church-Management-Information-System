@@ -1,7 +1,7 @@
 <?php
 
-$connection = mysqli_connect("localhost","bttovght_student","MySQL2022#");
-$db = mysqli_select_db($connection,'bttovght_sogodicp');
+$connection = mysqli_connect("localhost",DB_USERNAME,DB_PASSWORD);
+$db = mysqli_select_db($connection,DB_NAME);
 
 if(isset($_POST['insertrequest']))
     {
