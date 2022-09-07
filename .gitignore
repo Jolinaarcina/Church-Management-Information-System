@@ -3,4 +3,4 @@ calendar/db-connect.php
 bap.php
 admin/calendar/db-connect.php
 index.php
-admin/inquiries/db-connect.php
+admin/inquiries/db-updatecode.php
